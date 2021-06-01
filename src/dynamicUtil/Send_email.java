@@ -14,7 +14,7 @@ public class Send_email {
 	public static void sendEmail(String email, String subject, String body) {
 		try {
 			final String SEmail = "projects.umang.web@gmail.com";
-			final String SPass = "Password1@projects.umang.web";
+			final String SPass = "";
 			final String REmail = email;
 			final String Sub = subject;
 			final String Body = body;
