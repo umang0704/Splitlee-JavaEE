@@ -1,0 +1,12 @@
+.footer{
+    background-color: #1d1b1bec;
+    background-color: #232f34;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+.address{
+    font-size: 80%;
+    margin: 0px auto;
+    color: #0f0f0f;
+}
